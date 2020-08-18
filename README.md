@@ -1,7 +1,7 @@
 ## Assignment
-The app runs against test server for queries.
-The app does basic functionality of displaying editing notes.
-Using material-ui for styling.
+The app runs against test server for queries.<br>
+The app does basic functionality of displaying editing notes.<br>
+Using material-ui for styling.<br>
 
 Not done:
 - Router, because it wasn't clear what to use it for in this app
