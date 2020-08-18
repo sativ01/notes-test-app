@@ -5,7 +5,7 @@ Using material-ui for styling.
 
 Not done:
 - Router, because it wasn't clear what to use it for in this app
-- Language chane - lack of time
+- Language change - lack of time
 - Tests - lack of time
 
 ## Installation
